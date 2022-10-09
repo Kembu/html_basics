@@ -1,0 +1,49 @@
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: peru;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+          .header2{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 125%;
+          }
+          .paragraph{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 100%;
+            padding: 10px ;
+          }
+          .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+          }
+          .quotes{
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 100%;
+            padding: 50px ;
+            font-style: italic;
+            font-weight: bold;
+          }
+          body{
+            background-color: lightgray;
+          }
+  
